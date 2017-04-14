@@ -1,0 +1,9 @@
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\bin\Debug\MF.exe.config
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\bin\Debug\MF.exe
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\bin\Debug\MF.pdb
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\obj\Debug\MF.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\obj\Debug\MF.Form1.resources
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\obj\Debug\MF.Properties.Resources.resources
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\obj\Debug\MF.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\obj\Debug\MF.exe
+C:\Users\Ray\Desktop\人工智慧\作業\MF\MF\obj\Debug\MF.pdb

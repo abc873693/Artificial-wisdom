@@ -1,0 +1,9 @@
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\bin\Debug\MF_fourth.exe.config
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\bin\Debug\MF_fourth.exe
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\bin\Debug\MF_fourth.pdb
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.csprojResolveAssemblyReference.cache
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.Form1.resources
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.Properties.Resources.resources
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.csproj.GenerateResource.Cache
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.exe
+C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.pdb

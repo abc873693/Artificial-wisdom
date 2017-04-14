@@ -1,0 +1,9 @@
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\bin\Debug\MF_second.exe.config
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\bin\Debug\MF_second.exe
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\bin\Debug\MF_second.pdb
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\obj\Debug\MF_second.csprojResolveAssemblyReference.cache
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\obj\Debug\MF_second.Form1.resources
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\obj\Debug\MF_second.Properties.Resources.resources
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\obj\Debug\MF_second.csproj.GenerateResource.Cache
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\obj\Debug\MF_second.exe
+C:\KUAS10502 HomeWork\人工智慧\MF_second\MF_second\obj\Debug\MF_second.pdb
