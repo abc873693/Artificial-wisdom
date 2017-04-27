@@ -7,3 +7,12 @@ C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.Prope
 C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.csproj.GenerateResource.Cache
 C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.exe
 C:\KUAS10502 HomeWork\人工智慧\MF_fourth\MF_fourth\obj\Debug\MF_fourth.pdb
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\bin\Debug\MF_fourth.exe.config
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\bin\Debug\MF_fourth.exe
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\bin\Debug\MF_fourth.pdb
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\obj\Debug\MF_fourth.csprojResolveAssemblyReference.cache
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\obj\Debug\MF_fourth.Form1.resources
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\obj\Debug\MF_fourth.Properties.Resources.resources
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\obj\Debug\MF_fourth.csproj.GenerateResource.Cache
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\obj\Debug\MF_fourth.exe
+C:\Github\Artificial-wisdom\MF_fourth\MF_fourth\obj\Debug\MF_fourth.pdb

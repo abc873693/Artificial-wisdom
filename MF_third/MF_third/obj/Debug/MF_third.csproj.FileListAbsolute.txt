@@ -7,3 +7,12 @@ C:\KUAS10502 HomeWork\人工智慧\MF_third\MF_third\obj\Debug\MF_third.Properti
 C:\KUAS10502 HomeWork\人工智慧\MF_third\MF_third\obj\Debug\MF_third.csproj.GenerateResource.Cache
 C:\KUAS10502 HomeWork\人工智慧\MF_third\MF_third\obj\Debug\MF_third.exe
 C:\KUAS10502 HomeWork\人工智慧\MF_third\MF_third\obj\Debug\MF_third.pdb
+C:\Github\Artificial-wisdom\MF_third\MF_third\bin\Debug\MF_third.exe.config
+C:\Github\Artificial-wisdom\MF_third\MF_third\bin\Debug\MF_third.exe
+C:\Github\Artificial-wisdom\MF_third\MF_third\bin\Debug\MF_third.pdb
+C:\Github\Artificial-wisdom\MF_third\MF_third\obj\Debug\MF_third.csprojResolveAssemblyReference.cache
+C:\Github\Artificial-wisdom\MF_third\MF_third\obj\Debug\MF_third.Form1.resources
+C:\Github\Artificial-wisdom\MF_third\MF_third\obj\Debug\MF_third.Properties.Resources.resources
+C:\Github\Artificial-wisdom\MF_third\MF_third\obj\Debug\MF_third.csproj.GenerateResource.Cache
+C:\Github\Artificial-wisdom\MF_third\MF_third\obj\Debug\MF_third.exe
+C:\Github\Artificial-wisdom\MF_third\MF_third\obj\Debug\MF_third.pdb
