@@ -1,0 +1,9 @@
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\bin\Debug\MF_fifth.exe.config
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\bin\Debug\MF_fifth.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\bin\Debug\MF_fifth.pdb
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.Form1.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.Properties.Resources.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.pdb
