@@ -7,3 +7,12 @@ C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fif
 C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.csproj.GenerateResource.Cache
 C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.exe
 C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.pdb
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\bin\Debug\MF_fifth.exe.config
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\bin\Debug\MF_fifth.exe
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\bin\Debug\MF_fifth.pdb
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.csprojResolveAssemblyReference.cache
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.Form1.resources
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.Properties.Resources.resources
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.csproj.GenerateResource.Cache
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.exe
+C:\Github\Artificial-wisdom\MF_fifth\MF_fifth\obj\Debug\MF_fifth.pdb
