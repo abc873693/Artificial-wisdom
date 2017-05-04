@@ -1,0 +1,9 @@
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\obj\Debug\MF_sxith.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\obj\Debug\MF_sxith.Form1.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\obj\Debug\MF_sxith.Properties.Resources.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\obj\Debug\MF_sxith.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\bin\Debug\MF_sxith.exe.config
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\bin\Debug\MF_sxith.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\bin\Debug\MF_sxith.pdb
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\obj\Debug\MF_sxith.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_sxith\MF_sxith\obj\Debug\MF_sxith.pdb
