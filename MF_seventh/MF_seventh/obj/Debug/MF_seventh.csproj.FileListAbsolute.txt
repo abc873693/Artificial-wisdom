@@ -1,0 +1,9 @@
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\obj\Debug\MF_seventh.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\obj\Debug\MF_seventh.Form1.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\obj\Debug\MF_seventh.Properties.Resources.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\obj\Debug\MF_seventh.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\bin\Debug\MF_seventh.exe.config
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\bin\Debug\MF_seventh.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\bin\Debug\MF_seventh.pdb
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\obj\Debug\MF_seventh.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_seventh\MF_seventh\obj\Debug\MF_seventh.pdb

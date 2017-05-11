@@ -132,10 +132,10 @@ namespace MF_sxith
                 return (index);
             }
 
-            public static E FuzzyControlA(Double y, Double e)
+            public static E FuzzyControlA(Double y_next, Double e)
             {
                 Double e_next, e_dot_next;
-                e_next = D - y;
+                e_next = D - y_next;
                 e_dot_next = e_next - e;
                 return new E(e_next, e_dot_next);
             }
