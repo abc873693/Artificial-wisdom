@@ -1,0 +1,9 @@
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\bin\Debug\MF_eighth.exe.config
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\bin\Debug\MF_eighth.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\bin\Debug\MF_eighth.pdb
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\obj\Debug\MF_eighth.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\obj\Debug\MF_eighth.Form1.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\obj\Debug\MF_eighth.Properties.Resources.resources
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\obj\Debug\MF_eighth.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\obj\Debug\MF_eighth.exe
+C:\Users\Ray\Desktop\GitHub\Artificial-wisdom\MF_eighth\MF_eighth\obj\Debug\MF_eighth.pdb
